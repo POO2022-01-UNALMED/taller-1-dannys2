@@ -1,0 +1,1 @@
+como la carpeta ya no se encuentra vacia, se registro el cambio y se pudo hacer el commit sin problema.
